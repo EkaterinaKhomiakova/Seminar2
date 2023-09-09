@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\Seminar2\Random2\bin\Debug\net6.0\Random2.exe
+C:\Users\ILYA\Desktop\Seminar2\Random2\bin\Debug\net6.0\Random2.deps.json
+C:\Users\ILYA\Desktop\Seminar2\Random2\bin\Debug\net6.0\Random2.runtimeconfig.json
+C:\Users\ILYA\Desktop\Seminar2\Random2\bin\Debug\net6.0\Random2.dll
+C:\Users\ILYA\Desktop\Seminar2\Random2\bin\Debug\net6.0\Random2.pdb
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\Random2.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\Random2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\Random2.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\Random2.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\Random2.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\Random2.dll
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\refint\Random2.dll
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\Random2.pdb
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\Random2.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\Seminar2\Random2\obj\Debug\net6.0\ref\Random2.dll
