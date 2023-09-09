@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\bin\Debug\net6.0\Ostatok.exe
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\bin\Debug\net6.0\Ostatok.deps.json
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\bin\Debug\net6.0\Ostatok.runtimeconfig.json
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\bin\Debug\net6.0\Ostatok.dll
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\bin\Debug\net6.0\Ostatok.pdb
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\Ostatok.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\Ostatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\Ostatok.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\Ostatok.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\Ostatok.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\Ostatok.dll
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\refint\Ostatok.dll
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\Ostatok.pdb
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\Ostatok.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\Seminar2\Ostatok\obj\Debug\net6.0\ref\Ostatok.dll
