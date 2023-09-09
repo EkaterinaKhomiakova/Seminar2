@@ -1,0 +1,15 @@
+C:\Users\ILYA\Desktop\Seminar2\Function\bin\Debug\net6.0\Function.exe
+C:\Users\ILYA\Desktop\Seminar2\Function\bin\Debug\net6.0\Function.deps.json
+C:\Users\ILYA\Desktop\Seminar2\Function\bin\Debug\net6.0\Function.runtimeconfig.json
+C:\Users\ILYA\Desktop\Seminar2\Function\bin\Debug\net6.0\Function.dll
+C:\Users\ILYA\Desktop\Seminar2\Function\bin\Debug\net6.0\Function.pdb
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\Function.csproj.AssemblyReference.cache
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\Function.AssemblyInfoInputs.cache
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\Function.AssemblyInfo.cs
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\Function.dll
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\refint\Function.dll
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\Function.pdb
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\Function.genruntimeconfig.cache
+C:\Users\ILYA\Desktop\Seminar2\Function\obj\Debug\net6.0\ref\Function.dll
